@@ -1,2 +1,2 @@
 This is an additional file
-Some additional text which will be pushed
+Some additional text which will be pushed (and appended)
